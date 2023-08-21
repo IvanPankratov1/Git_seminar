@@ -78,3 +78,5 @@ Git - это прога, котрую разработал один тип, дл
 
 * git checkout branch_name
 * git checkout commit_name
+
+![images](Фото.png)
