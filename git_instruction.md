@@ -72,3 +72,9 @@ Git - это прога, котрую разработал один тип, дл
 
 [пример] (https://gb.ru/lessons/352546/homework) 
 
+### Второй семинар
+
+* git branch 
+
+* git checkout branch_name
+* git checkout commit_name
